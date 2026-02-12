@@ -1,9 +1,6 @@
 # Terraform
 Repositório com script para criação de uma instancia EC2 e um bucket S3 na AWS.
 
-Feito: Emille Feliciano
-
-
 Adicionando a chave
 ![adicionando_chave](https://github.com/EmilleFeliciano/Terraform/assets/99232463/901fa607-ca04-4ab8-8132-9b8c8f6c26cd)
 
